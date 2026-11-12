@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+transformers
+qwen-vl-utils[decord]
+torch
+opencv-python
+modelscope
